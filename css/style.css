@@ -113,6 +113,7 @@ ul.navbar-nav li a{
 .indicatior2{
 	top:90% !important;
 }
+	
 
 .btn.btn-learn {
   background: #00bcd4 none repeat scroll 0 0;
@@ -131,6 +132,10 @@ ul.navbar-nav li a{
 .site-padding{
 	padding-top: 10px;
 	padding:70px 0;
+}
+.siteab-padding{
+	padding-top: 10px;
+	padding:20px 0;
 }
 
 .btn.btn-read-more {
